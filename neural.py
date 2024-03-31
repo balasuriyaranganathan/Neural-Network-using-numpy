@@ -93,7 +93,7 @@ print("Test Accuracy:", accuracy)
 
 # Plot the loss curve
 plt.plot(loss_history)
-plt.xlabel('Iteration')
+plt.xlabel('Iterations')
 plt.ylabel('Loss')
 plt.title('Loss Curve')
 plt.show()
